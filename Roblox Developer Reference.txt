@@ -1,0 +1,7 @@
+# How to game passes
+https://developer.roblox.com/en-us/articles/Game-Passes-One-Time-Purchases
+
+# How to create Dialogs
+https://developer.roblox.com/en-us/articles/Usage-of-dialogs
+
+#
